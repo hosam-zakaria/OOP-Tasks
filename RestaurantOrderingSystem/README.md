@@ -2,6 +2,8 @@
 
 A simple Java project built to practice Object-Oriented Programming (OOP) concepts.
 
+![Output](restaurant.jpg)
+
 ## Concepts Covered
 
 - Encapsulation
